@@ -1,0 +1,16 @@
+Dataset used for training, testing, and validating the trained neural network.
+The dataset is organzied as follows:
+
+rps
+|> train
+|>>> paper
+|>>> rock
+|>>> scissors
+|> valid
+|>>> paper
+|>>> rock
+|>>> scissors
+|> test
+|>>> paper
+|>>> rock
+|>>> scissors
