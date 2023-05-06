@@ -1,4 +1,4 @@
-# rock-paper-scissor-robotics
+# Rock Paper Scissor Robotics
 Python code to train a CNN model for classifying rock, paper, scissor hand poses and then control myCobot280 robotic arm
 
 [![BSD License](https://img.shields.io/github/license/walmaawali/rock-paper-scissor-robotics?style=plastic)](https://github.com/license/walmaawali/rock-paper-scissor-robotics)
